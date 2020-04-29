@@ -14,7 +14,7 @@ import (
 	"github.com/olekukonko/tablewriter"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
-	"github.com/rylio/ytdl"
+	"github.com/schfkt/ytdl"
 	"github.com/urfave/cli"
 )
 

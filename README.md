@@ -2,7 +2,7 @@
 
 Go library for downloading YouTube videos
 
-[![Documentation](https://godoc.org/github.com/rylio/ytdl?status.svg)](http://godoc.org/github.com/rylio/ytdl)
+[![Documentation](https://godoc.org/github.com/schfkt/ytdl?status.svg)](http://godoc.org/github.com/schfkt/ytdl)
 [![CircleCI](https://circleci.com/gh/rylio/ytdl.svg?style=shield)](https://circleci.com/gh/rylio/ytdl)
 [![Codecov](https://codecov.io/gh/rylio/ytdl/branch/master/graph/badge.svg)](https://codecov.io/gh/rylio/ytdl)
 [![Go ReportCard](http://goreportcard.com/badge/rylio/ytdl)](http://goreportcard.com/report/rylio/ytdl)
@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rylio/ytdl"
+	"github.com/schfkt/ytdl"
 )
 
 func main() {
@@ -35,7 +35,7 @@ func main() {
 
 ## ytdl CLI
 
-- To install: `go get -u github.com/rylio/ytdl/...`
+- To install: `go get -u github.com/schfkt/ytdl/...`
 
 - Or use Docker image `docker pull brucewangno1/ytdl:1.0`
 
